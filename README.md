@@ -40,7 +40,7 @@
 - Time Management, Infosys Springboard
 
 ## 📈 Internship
-- Data Science & Machine Learning Internship at FreshersLabs- 👋 Hi, I’m @AnushaaAnu
+- Data Science & Machine Learning Internship at FreshersLabs.
 
 <!---
 AnushaaAnu/AnushaaAnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
