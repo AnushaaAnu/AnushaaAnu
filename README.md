@@ -32,7 +32,8 @@
 - National rank in the International English Talent Exam (2017)
 
 ## 🔗 Certifications
-- Java Full Stack, TNS India Foundation & Capgemini
+- Java Full Stack, TNS India Foundation sponsered by Capgemini
+- C programming language, Qspiders
 - Selenium Testing, ScholarLogic
 - Python Basics, Infosys Springboard
 - Introduction to Cloud Computing, Infosys Springboard
